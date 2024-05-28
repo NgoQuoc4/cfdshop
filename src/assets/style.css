@@ -1,0 +1,15 @@
+.ant-message {
+    z-index: 1100;
+}
+
+.customSelect {
+    height: 40px;
+    width: 100%;
+    position: relative;
+    margin-bottom: 1.3rem;
+}
+
+.customSelect .ant-select-selector {
+    background-color: #f9f9f9 !important;
+    color: #777 !important;
+}
